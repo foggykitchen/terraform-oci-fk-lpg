@@ -1,5 +1,5 @@
 module "vcn1" {
-  source = "git::https://github.com/mlinxfeld/terraform-oci-fk-vcn.git"
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-vcn.git"
 
   compartment_ocid = var.compartment_ocid
   name             = "fk-vcn-1"
@@ -73,7 +73,7 @@ module "vcn1" {
 }
 
 module "vcn2" {
-  source = "git::https://github.com/mlinxfeld/terraform-oci-fk-vcn.git"
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-vcn.git"
 
   compartment_ocid = var.compartment_ocid
   name             = "fk-vcn-2"
