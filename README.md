@@ -2,7 +2,7 @@
 
 This repository contains a reusable **Terraform/OpenTofu module** and progressive examples for deploying **Oracle Cloud Infrastructure (OCI) Local Peering Gateways (LPGs)** between two VCNs in the same region.
 
-It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/)** and serves as a focused building block for OCI networking courses, multicloud comparisons, and advanced connectivity scenarios.
+It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/)** and serves as a focused building block for OCI networking courses, multicloud comparisons, and advanced connectivity scenarios.
 
 Support expectations are documented in [SUPPORT.md](SUPPORT.md).
 
